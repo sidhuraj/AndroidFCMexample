@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666995670182",
+    "firebase_url": "https://fcmexample-51f65.firebaseio.com",
+    "project_id": "fcmexample-51f65",
+    "storage_bucket": "fcmexample-51f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666995670182:android:0ebad64643c11addf00867",
+        "android_client_info": {
+          "package_name": "com.companyname.fcmexamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666995670182-la19ljmja18iovu88higerhbvlv5esul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDwQYTJRWWpTwU2sMoEt-oWoCtpZIFgPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666995670182-la19ljmja18iovu88higerhbvlv5esul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
